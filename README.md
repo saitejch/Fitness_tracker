@@ -1,4 +1,6 @@
 # Fitness_tracker
+u can access the deployed app here #render
+https://fit-tracker-1fbg.onrender.com/
 # 🥗 AI Health and Nutrition Web App
 
 The **AI Health and Nutrition Web App** is an intelligent platform that delivers **personalized meal plans, exercise routines, and lifestyle recommendations** based on detailed user data. By leveraging machine learning, the app adapts in real-time to user activity and progress, offering dynamic suggestions that evolve alongside individual health goals.
